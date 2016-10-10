@@ -1,6 +1,6 @@
 {
   "name": "class-name-starting-with",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Finds all elements with matching class name starting with a string prefix.",
   "main": "index.js",
   "scripts": {
