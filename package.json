@@ -1,0 +1,27 @@
+{
+  "name": "class-name-starting-with",
+  "version": "0.0.0",
+  "description": "Finds all elements with matching class name starting with a string prefix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiljohansson/class-name-starting-with.git"
+  },
+  "keywords": [
+    "windows",
+    "os"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiljohansson/class-name-starting-with/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/class-name-starting-with#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "jsdom": "^9.6.0"
+  }
+}
